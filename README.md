@@ -1,2 +1,2 @@
 # chirpy-clone
-chirpy clone only front end
+chirpy theme clone only front end
